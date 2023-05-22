@@ -1,2 +1,2 @@
 # leetcode-daily
-Python Solutions for the daily leetcode solutions.
+Python Solutions for the daily leetcode problems.
