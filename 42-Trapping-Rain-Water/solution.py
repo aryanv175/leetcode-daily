@@ -9,3 +9,5 @@ class Solution:
             if temp > 0: # only add it if it nets out to be positive
                 water += temp 
         return water # return!
+
+# this problem took a while, these are the two solutions i tried before getting to the correct one.
