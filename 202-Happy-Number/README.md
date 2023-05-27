@@ -11,3 +11,4 @@ Return true if n is a happy number, and false if not.
 
 ![image](https://github.com/aryanv175/leetcode-daily/assets/91381804/f4149899-7a6b-4bb5-918c-64ec1a5a2cf8)
 
+![image](https://github.com/aryanv175/leetcode-daily/assets/91381804/0b8f6428-ba08-4c03-ba03-a7c3c399934b)
