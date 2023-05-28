@@ -9,3 +9,9 @@ class Solution:
                 substr += s[i] # this while loop runs until we find a repeating character
                 if i+1 <len(s):
                     i+= 1
+
+            if len(substr) > max_len: # if the length of the substr is more than the current max length then we replace it
+                max_len = len(substr) 
+            substr = '' # after every iteration of the for loop we reset the substring to an emoty string.
+            
+        return max_len
