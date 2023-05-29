@@ -10,4 +10,5 @@ A palindrome is a string that reads the same forward and backward.
 
 ![image](https://github.com/aryanv175/leetcode-daily/assets/91381804/d654882a-9322-46b9-909e-986b0b172af0)
 
-![image](https://github.com/aryanv175/leetcode-daily/assets/91381804/b210dc76-6915-4264-93d9-7f53bbd316f4)
+![image](https://github.com/aryanv175/leetcode-daily/assets/91381804/9feeabc1-116b-4904-84e8-edd6fe0c86e6)
+
