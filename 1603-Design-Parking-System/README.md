@@ -9,3 +9,4 @@ bool addCar(int carType) Checks whether there is a parking space of carType for 
 
 ![image](https://github.com/aryanv175/leetcode-daily/assets/91381804/8e5a2a61-043e-418f-8702-bccc08a58d9f)
 
+![image](https://github.com/aryanv175/leetcode-daily/assets/91381804/aaf3518e-3d9b-483a-8fde-58592d26b2f4)
